@@ -1,0 +1,7 @@
+Scenario: Just Area is missing, Accuracy: 0.92
+Scenario: Just Perimeter is missing, Accuracy: 0.88
+Scenario: Just Major_Axis_Length is missing, Accuracy: 0.88
+Scenario: Just Minor_Axis_Length is missing, Accuracy: 0.89
+Scenario: Just Eccentricity is missing, Accuracy: 0.89
+Scenario: Just Convex_Area is missing, Accuracy: 0.91
+Scenario: Just Extent is missing, Accuracy: 0.89
