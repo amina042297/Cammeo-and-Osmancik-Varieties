@@ -2,5 +2,5 @@
 
 Dataset: [here](https://archive.ics.uci.edu/dataset/545/rice+cammeo+and+osmancik)
 
-- [Summary]()
-- [Code]()
+- [Summary](https://github.com/amina042297/Cammeo-and-Osmancik-Varieties/blob/main/Summary.docx)
+- [Code](https://github.com/amina042297/Cammeo-and-Osmancik-Varieties/blob/main/rice-project.py)
